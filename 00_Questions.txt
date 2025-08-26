@@ -1,0 +1,5 @@
+1. Write HTML Program for designing your institute website, display department information of your institute on the website
+
+2. Design a login page with submit sutton 
+
+3. Design your resume
